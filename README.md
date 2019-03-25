@@ -1,3 +1,6 @@
+# chb: Idea is to use the new KaTeX javascript library instead of MathJax in order to solve the space problem
+
+
 # Rendered math (MathJax) with Slack's desktop client
 
 [Slack](https://slack.com) does not display rendered math. The `math-with-slack` script allows you to write nice-looking math using familiar TeX syntax by injecting [MathJax](https://www.mathjax.org) into Slack's desktop client. This approach has several advantages over the plugin/bot solution:
